@@ -1,2 +1,2 @@
 # Calculator
-Calculator For  calculate the value 
+Basic Calculator
